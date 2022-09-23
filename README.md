@@ -6,6 +6,8 @@ It has no GUI so it runs in terminal
 Tested so ability to handle all sorts of errors
 
 It also has the capability to register users,so they can connect and get contacts by logins
+OTP request are sent to users gmail to verify users email address in registration
+
 It can also store data in a remote server
 
 Like every phone contact it can create,edit, delete,view phone contacts
