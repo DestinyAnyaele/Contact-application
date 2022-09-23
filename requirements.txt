@@ -1,0 +1,6 @@
+asgiref==3.5.2
+certifi==2022.6.15
+charset-normalizer==2.1.1
+colorama==0.4.5
+docutils==0.19
+idna==3.3
