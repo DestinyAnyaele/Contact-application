@@ -196,13 +196,13 @@ async def email_sender(email_address) :
     # I do not need to create a Main function that encompasses Task and i/o tasks because the side Task(keep_screen_on) do not need to be awaited to finish because it is an infinite loop
     
     
-    # Sender address which is mine
-    sender_address = 'unknownpython81@gmail.com'
+    # Sender address which is mine --> it has been deleted use yours
+    sender_address = 'unknown@gmail.com'
     
     
     # sender password
     # if password is not supported by app go to Google and create an app password for the ide
-    sender_password = 'bitxdnrrlbgxfbor'
+    sender_password = 'bitxdbgxfbor'
     
     
     # setup MIMEMultipart for email
